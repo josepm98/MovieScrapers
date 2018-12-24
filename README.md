@@ -1,2 +1,2 @@
-# MovieScrappers
-Web scrappers to get links for watching movies and TV series
+# MovieScrapers
+Web scrapers to get links for watching movies and TV series
